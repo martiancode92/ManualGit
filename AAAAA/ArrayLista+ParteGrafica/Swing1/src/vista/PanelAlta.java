@@ -22,6 +22,7 @@ import static sun.security.jgss.GSSUtil.login;
 public class PanelAlta extends javax.swing.JPanel {
 
     public PanelAlta() {
+        
 
         CabezarAltaUsuarios = new JLabel();
         txtNombre = new JTextField();
