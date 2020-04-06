@@ -5,6 +5,7 @@
  */
 package vista;
 
+
 import java.awt.event.KeyEvent;
 import javax.swing.JButton;
 import javax.swing.JLabel;
